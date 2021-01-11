@@ -12,4 +12,4 @@ with a revolving line of credit. But with the crisis, the default rate on outsta
 In a well-developed financial system, risk forecasting is an essential element for the proper functioning of banking establishments. 
 To assess the risk, they use financial information, such as company financial statements, customer transaction and reimbursement files, etc.
 
-** My mission is to predict credit card defaults for customers of an international bank ** 
+**My mission is to predict credit card defaults for customers of an international bank** 
