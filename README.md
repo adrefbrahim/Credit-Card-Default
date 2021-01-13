@@ -38,7 +38,7 @@ My solution for this Data Challenge will take place in 3 phases:
 **3. Deployment**
 
   * Mockups design and build a User Interface
-  * Conteneurisation using Docker
+  * Containerization using Docker
   * Deploy my docker container on the GCP(Cloud Run)
   
 # `RESULTS`
