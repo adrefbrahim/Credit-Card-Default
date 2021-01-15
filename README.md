@@ -29,11 +29,11 @@ My solution for this Data Challenge will take place in 3 phases:
 
 **2. Model**
 
-  * Prediction modeling
-  * Performance evaluation
+  * [x] Prediction modeling
+  * [x] Performance evaluation
   * Optimization of hyperameters
   * Choice of the best model
-  * Save the model to use it deployement step
+  * Save the model to use it in deployement step
 
 **3. Deployment**
 
@@ -49,4 +49,4 @@ The most important thing is to understand the data from a detailed statistical a
 
 See you in the Jupyter Notebook
 
-> Made with love :) <3
+> Made with love <3
