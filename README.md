@@ -31,7 +31,7 @@ My solution for this Data Challenge will take place in 3 phases:
 
   * [x] Prediction modeling
   * [x] Performance evaluation
-  * Optimization of hyperameters
+  * [x] Optimization of hyperameters
   * Choice of the best model
   * Save the model to use it in deployement step
 
